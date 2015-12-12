@@ -27,10 +27,8 @@ $(function() {
         }
     }
     var viewModelObject = new ViewModel(dataObject);
-
     // get data - sample data from Donors Choose API
-
-        // bind the data
+    // bind the data
 
     ko.applyBindings(viewModelObject);
 
