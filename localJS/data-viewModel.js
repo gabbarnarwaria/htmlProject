@@ -2,6 +2,8 @@
 var data = [
     {title: "CBSE", schoolName: "School 1" , percentFunded: "Private"},
     {title: "ICSE", schoolName: "School 1" , percentFunded: "Government"},
+    {title: "ICSE", schoolName: "School 1" , percentFunded: "Government"},
+    {title: "ICSE", schoolName: "School 1" , percentFunded: "Government"},
     {title: "State Board", schoolName: "School 3" , percentFunded: "Government"}
 ]
 
